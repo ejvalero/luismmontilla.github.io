@@ -18,8 +18,8 @@ social:
     url: https://twitter.com/luismmontilla
   - title: instagram
     url: https://www.instagram.com/luismmontilla/
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: orcid
+    url:  https://orcid.org/0000-0002-7079-6775
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
@@ -28,3 +28,4 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+orcid
