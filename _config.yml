@@ -27,7 +27,7 @@ social:
   - title: letterboxd
     url: https://letterboxd.com/luismmontilla/
   - title: goodreads
-    url:https://www.goodreads.com/user/show/4669636-luis-miguel
+    url: https://www.goodreads.com/user/show/4669636-luis-miguel
 
 # Build settings
 markdown: kramdown
